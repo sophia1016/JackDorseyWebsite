@@ -1,0 +1,1 @@
+This project is an open source, fully responsive Bootstrap Parallax slider with a opaque sticky navigation.
